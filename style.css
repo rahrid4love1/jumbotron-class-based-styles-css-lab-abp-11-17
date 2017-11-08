@@ -50,7 +50,7 @@ h3#header {
   color: #868e96;
 }
 
-.jumbotron{
+div .jumbotron{
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
@@ -66,3 +66,4 @@ h3#header {
   padding: 0 40px 0 40px;
   line-height: 40px;
 }
+
